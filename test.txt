@@ -1,1 +1,3 @@
 echo "Test reusit"
+
+echo "dublu test reusit"
